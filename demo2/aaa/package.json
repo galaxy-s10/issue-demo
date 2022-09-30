@@ -1,0 +1,5 @@
+{
+  "name": "aaa",
+  "sideEffects": false,
+  "main": "./index.js"
+}
